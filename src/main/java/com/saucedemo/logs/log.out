@@ -1,0 +1,22 @@
+2023-05-16 18:05:726 INFO  LoginPage :23 - Enter Username Standard_user to email field Standard_user
+2023-05-16 18:05:865 INFO  LoginPage :28 - Enter Password secret_sauce to email field secret_sauce
+2023-05-16 18:05:961 INFO  LoginPage :33 - Click Login Button [[ChromeDriver: chrome on WINDOWS (707f794ed28bd0f3867cda3d2695f210)] -> id: login-button]
+2023-05-16 18:05:521 INFO  LoginPage :23 - Enter Username Standard_user to email field Standard_user
+2023-05-16 18:05:661 INFO  LoginPage :28 - Enter Password secret_sauce to email field secret_sauce
+2023-05-16 18:05:769 INFO  LoginPage :33 - Click Login Button [[ChromeDriver: chrome on WINDOWS (3073b64f6f2da5f4ba90ef6e80f1ad88)] -> id: login-button]
+2023-05-16 18:05:119 INFO  LoginPage :23 - Enter Username standard_user to email field standard_user
+2023-05-16 18:05:276 INFO  LoginPage :28 - Enter Password secret_sauce to email field secret_sauce
+2023-05-16 18:05:384 INFO  LoginPage :33 - Click Login Button [[ChromeDriver: chrome on WINDOWS (4357347844024427b3b5c707b34f299b)] -> id: login-button]
+2023-05-16 18:05:521 INFO  ProductsHomePage :22 - Getting Product Text [[ChromeDriver: chrome on WINDOWS (4357347844024427b3b5c707b34f299b)] -> xpath: //span[contains(text(),'Products')]]
+2023-05-16 18:05:638 INFO  LoginPage :23 - Enter Username standard_user to email field standard_user
+2023-05-16 18:05:770 INFO  LoginPage :28 - Enter Password secret_sauce to email field secret_sauce
+2023-05-16 18:05:863 INFO  LoginPage :33 - Click Login Button [[ChromeDriver: chrome on WINDOWS (1da5e34e20f2e11f57cde701f51b0e1e)] -> id: login-button]
+2023-05-16 18:05:998 INFO  ProductsHomePage :27 - Finding Total Number Of Products6
+2023-05-16 18:05:285 INFO  LoginPage :23 - Enter Username standard_user to email field standard_user
+2023-05-16 18:05:446 INFO  LoginPage :28 - Enter Password secret_sauce to email field secret_sauce
+2023-05-16 18:05:581 INFO  LoginPage :33 - Click Login Button [[ChromeDriver: chrome on WINDOWS (12643be97c76e8ddf7f6289da1c0ec10)] -> id: login-button]
+2023-05-16 18:05:730 INFO  ProductsHomePage :22 - Getting Product Text [[ChromeDriver: chrome on WINDOWS (12643be97c76e8ddf7f6289da1c0ec10)] -> xpath: //span[contains(text(),'Products')]]
+2023-05-16 18:05:417 INFO  LoginPage :23 - Enter Username standard_user to email field standard_user
+2023-05-16 18:05:578 INFO  LoginPage :28 - Enter Password secret_sauce to email field secret_sauce
+2023-05-16 18:05:709 INFO  LoginPage :33 - Click Login Button [[ChromeDriver: chrome on WINDOWS (ca351fd8760bbfb1168cc4eef59de367)] -> id: login-button]
+2023-05-16 18:05:884 INFO  ProductsHomePage :27 - Finding Total Number Of Products6
